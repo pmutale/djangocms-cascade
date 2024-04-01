@@ -5,3 +5,4 @@ jsonfield
 django-reversion
 djangocms-text-ckeditor
 beautifulsoup4
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
